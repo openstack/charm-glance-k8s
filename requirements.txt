@@ -11,7 +11,7 @@ lightkube
 lightkube-models
 ops
 
-git+https://opendev.org/openstack/charm-ops-sunbeam#egg=ops_sunbeam
+git+https://opendev.org/openstack/charm-ops-sunbeam@stable/xena#egg=ops_sunbeam
 
 git+https://opendev.org/openstack/charm-ops-interface-tls-certificates#egg=interface_tls_certificates
 
